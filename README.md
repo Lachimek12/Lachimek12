@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Michał Węsiora
+
 # 💫 About Me:
 🎓Computer Science student at Gdańsk University of Technology.<br><br>🧠I enjoy problem solving, learning how things work under the hood, and turning ideas into working software. I’m a computer enthusiast who likes experimenting with new technologies, optimizing code, and building projects that are both fun and challenging.<br><br>🎮I am also interested in game development and interactive systems.
 
